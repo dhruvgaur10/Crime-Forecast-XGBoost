@@ -95,23 +95,13 @@ Dashboard accessible at: `http://localhost:8501`
 - Streamlit
 - Joblib
 
-## Deployment
+## Running the Dashboard
 
-### Streamlit Cloud (Recommended)
-1. Push repository to GitHub
-2. Connect at https://streamlit.io/cloud
-3. Auto-deployment enabled
-
-### Local Deployment
 ```bash
 streamlit run app.py
 ```
 
-### Docker
-```bash
-docker build -t crime-forecast .
-docker run -p 8501:8501 crime-forecast
-```
+The dashboard will be accessible at `http://localhost:8501`
 
 ## Data Source
 
