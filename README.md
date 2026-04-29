@@ -95,14 +95,6 @@ Dashboard accessible at: `http://localhost:8501`
 - Streamlit
 - Joblib
 
-## Running the Dashboard
-
-```bash
-streamlit run app.py
-```
-
-The dashboard will be accessible at `http://localhost:8501`
-
 ## Data Source
 
 Vancouver Police Department historical crime records (1999-2011) publicly available under open data policies.
