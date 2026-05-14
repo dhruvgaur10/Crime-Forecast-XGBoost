@@ -44,12 +44,8 @@ pip install -r requirements.txt
 jupyter notebook FBI_Crime_Investigation.ipynb
 ```
 
-### Streamlit Dashboard
-```bash
-streamlit run app.py
-```
-
-Dashboard accessible at: `http://localhost:8501`
+### Live Dashboard
+**Live Dashboard**: https://crime-forecast-xgboost.streamlit.app/
 
 ## Features
 
