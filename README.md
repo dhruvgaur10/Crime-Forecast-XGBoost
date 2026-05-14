@@ -1,5 +1,7 @@
 # Crime Forecast XGBoost
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://crime-forecast-xgboost.streamlit.app/)
+
 Time series forecasting solution for predicting monthly crime incidents in Vancouver using machine learning. Achieves 84.7% variance explanation (R²) across 9 crime categories using XGBoost gradient boosting on 13 years of historical police data.
 
 ## Overview
